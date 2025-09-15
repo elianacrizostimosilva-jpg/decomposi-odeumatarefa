@@ -1,0 +1,27 @@
+body{
+     font-family: Arial, Helvetica, sans-serif;
+     margin: 20px ;    
+}
+
+h1{
+     text-align:center;
+}
+
+h1{
+    text-align: center;
+    color: aqua;
+}
+
+h2{
+    color: azure;
+}
+
+u1, o1{
+    background-color: azure;
+    padding: 15xp;
+    border-radius: 8xp;
+}
+
+li{
+    margin: 5xp 0 ;
+}
